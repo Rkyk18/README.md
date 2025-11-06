@@ -1,9 +1,6 @@
 # README.md
 $IACS adalah token Omniacs.DAO dengan suplai 1B, harga $0.000197 dan market cap ~$203K. Likuiditas rendah, volume kecil, 37.5% dialokasikan untuk publik. Potensi ada, tapi risiko tinggi.
 
-my Pond Profile URL 
-https://cryptopond.xyz/developer/fd01ac66-6b5f-11f0-a1f3-024775222cc3
-
 Quick summary (TL;DR)
 
 What: $IACS is the Omniacs.DAO token (appears to be a Base-chain project listed as “Omniacs.DAO / IACS”). 
@@ -65,3 +62,6 @@ Live DEX/price pages showing IACS price and chart (Dextools / Bitget).
 Interface.social / aggregator showing market cap, liquidity, holders (Omniacs.DAO). 
 
 Project / social posts showing tokenomics snippets and supply (X posts). 
+
+my Pond Profile URL 
+https://cryptopond.xyz/developer/fd01ac66-6b5f-11f0-a1f3-024775222cc3
