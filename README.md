@@ -1,7 +1,5 @@
 # README.md
-$IACS adalah token Omniacs.DAO dengan suplai 1B, harga $0.000197 dan market cap ~$203K. Likuiditas rendah, volume kecil, 37.5% dialokasikan untuk publik. Potensi ada, tapi risiko tinggi.
-
-Quick summary (TL;DR)
+$IACS is an Omniacs.DAO token with a supply of 1B, a price of $0.000197, and a market cap of ~$203K. It has low liquidity, low volume, and 37.5% is allocated to the public. Potential is there, but risks are high
 
 What: $IACS is the Omniacs.DAO token (appears to be a Base-chain project listed as “Omniacs.DAO / IACS”). 
 
